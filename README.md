@@ -21,6 +21,8 @@ Power BI Desktop – for data modeling and visualization
 
 DAX (Data Analysis Expressions) – to calculate averages and grades
 
-CSV/Excel – as the dataset source
+CSV/Excel – as the dataset source ([student_marks.xlsx](https://github.com/user-attachments/files/21594435/student_marks.xlsx)
+)
+
 
 GitHub – for project hosting and sharing
