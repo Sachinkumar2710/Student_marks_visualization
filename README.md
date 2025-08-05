@@ -1,2 +1,26 @@
-# Student_marks_visualization
-It helps to analyze the students marks and grade according to their performance
+📁 Project Overview
+This project visualizes student performance using Power BI. It helps in analyzing marks, understanding average performance, and visualizing grade distributions for better academic insights.
+
+🔨 What I Did
+✅ Imported student marks dataset into Power BI
+
+✅ Calculated average marks for each student and subject using DAX
+
+✅ Assigned grades based on calculated averages
+
+✅ Created visuals:
+
+📊 Bar chart for subject-wise marks
+
+🥧 Pie chart for grade distribution
+
+✅ Added filters for class and exam term for dynamic insights
+
+🧰 Tools Used
+Power BI Desktop – for data modeling and visualization
+
+DAX (Data Analysis Expressions) – to calculate averages and grades
+
+CSV/Excel – as the dataset source
+
+GitHub – for project hosting and sharing
